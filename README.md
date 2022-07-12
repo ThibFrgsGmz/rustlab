@@ -1,0 +1,2 @@
+# rustlab
+Rust learning laboratory
