@@ -1,3 +1,3 @@
-fn main() {
+pub(crate) fn main() {
     println!("Hello, world!");
 }
