@@ -6,8 +6,8 @@ pub(crate) fn main() {
         reference_on_array[0] = 2012;
     }
 
-    // println!("{:?}", reference_on_array); // borrow property of mutable_array
-    // println!("{:?}", mutable_array); // mutable_array retrieves its property
+    println!("{:?}", reference_on_array); // borrow property of mutable_array
+    println!("{:?}", mutable_array); // mutable_array retrieves its property
 
     mutable_array[0]=2013;
 
